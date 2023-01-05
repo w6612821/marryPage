@@ -1,1 +1,0 @@
-import{_ as e}from"../js/index.340392ac.js";import"./es.pnpm.25f59958.js";var r=e({},[["render",function(e,r){return"GameDemo"}],["__file","D:/myProject/myBlog/src/pages/GameDemo.vue"]]);export{r as default};
